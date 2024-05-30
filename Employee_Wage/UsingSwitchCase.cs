@@ -17,7 +17,6 @@ namespace Employee_Wage
             const int wage_per_hour = 20;
             Random random = new Random();
             int number = random.Next(0, 3);
-            //int work_hour = 0;
             int emp_wage = 0;
 
             switch (number)
