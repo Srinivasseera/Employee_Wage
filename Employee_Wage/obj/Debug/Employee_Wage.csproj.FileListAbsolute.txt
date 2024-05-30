@@ -1,0 +1,7 @@
+C:\Employee_Wage\Employee_Wage\bin\Debug\Employee_Wage.exe.config
+C:\Employee_Wage\Employee_Wage\bin\Debug\Employee_Wage.exe
+C:\Employee_Wage\Employee_Wage\bin\Debug\Employee_Wage.pdb
+C:\Employee_Wage\Employee_Wage\obj\Debug\Employee_Wage.csproj.AssemblyReference.cache
+C:\Employee_Wage\Employee_Wage\obj\Debug\Employee_Wage.csproj.CoreCompileInputs.cache
+C:\Employee_Wage\Employee_Wage\obj\Debug\Employee_Wage.exe
+C:\Employee_Wage\Employee_Wage\obj\Debug\Employee_Wage.pdb
