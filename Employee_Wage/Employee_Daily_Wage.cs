@@ -39,12 +39,9 @@ namespace Employee_Wage
         static void Main(string[] args)
         {
 
-
             Employee_Daily employee_daily_wage = new Employee_Daily();
-            //Console.WriteLine(w1.Wage);
             employee_daily_wage.Print_Daily_Wage();
-            Console.ReadLine();
-
+           
         }
     }
 }
