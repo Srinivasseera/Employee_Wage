@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Employee_Wage.Twenty_Days</StartupObject>
+    <StartupObject>Employee_Wage.Hundered_Hours</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Employee_Daily_Wage.cs" />
     <Compile Include="Emplyoee_Presence.cs" />
+    <Compile Include="Hundred_Hours.cs" />
     <Compile Include="PartTime.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
